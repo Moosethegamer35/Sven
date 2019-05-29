@@ -1,11 +1,11 @@
-# Sven Exit Method
+# Sven Upgrade
  See: https://repl.it/@SeamusFiloon/Java-Sven-version-1-6
  
  Specs: https://github.com/mrminich/Sven
 
 
 
-Upgrade below:
+ Exit method upgrade below:
 
 else if (userMenuChoice.equals("3") || userMenuChoice.equals("E") || userMenuChoice.equals("e"))
       {
