@@ -1,6 +1,10 @@
 # Sven Exit Method
-https://repl.it/@SeamusFiloon/Java-Sven-version-1-6
+ See: https://repl.it/@SeamusFiloon/Java-Sven-version-1-6
+ Specs:
 
+
+
+Upgrade below
 else if (userMenuChoice.equals("3") || userMenuChoice.equals("E") || userMenuChoice.equals("e"))
       {
        System.out.println("Exit");
